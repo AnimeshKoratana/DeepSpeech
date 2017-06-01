@@ -1,7 +1,7 @@
 pandas
 progressbar2
 python-utils
-tensorflow
+tensorflow-gpu
 numpy
 scipy
 paramiko
